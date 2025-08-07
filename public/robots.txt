@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dmitvps.github.io/sitemap.xml
