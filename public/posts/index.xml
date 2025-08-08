@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>文章列表 on DMIT中文指南</title>
+    <link>https://dmitvps.github.io/posts/</link>
+    <description>Recent content in 文章列表 on DMIT中文指南</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 洛杉矶 Premium 网络深度实测【2025年8月】</title>
+      <link>https://dmitvps.github.io/posts/reviews/dmit-los-angeles-premium-network/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/reviews/dmit-los-angeles-premium-network/</guid>
+      <description>详细测试DMIT洛杉矶Premium机房的网络表现，包括三网去程回程路由分析、ping延迟测试、V2ray节点实际速度以及YouTube 4K播放体验，为选择DMIT服务器提供真实参考数据。</description>
+    </item>
+  </channel>
+</rss>
