@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT与Vultr实测对比：VPS稳定性与网络表现【2025】</title>
+      <link>https://dmitvps.github.io/posts/comparisons/dmit-vs-vultr/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/comparisons/dmit-vs-vultr/</guid>
+      <description>详细对比DMIT和Vultr两家主流VPS服务商的性能、价格、网络质量和技术支持，帮助您选择最适合的云服务器方案。基于实际测试数据分析两家优劣势。</description>
+    </item>
     <item>
       <title>DMIT VPS退款政策详解：退款条件、流程和注意事项</title>
       <link>https://dmitvps.github.io/posts/guides/dmit-refund-policy/</link>
