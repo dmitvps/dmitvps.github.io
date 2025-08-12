@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT IP更换政策详解，免费换IP全流程，不怕被墙</title>
+      <link>https://dmitvps.github.io/posts/guides/dmit-ip-replacement-policy/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/guides/dmit-ip-replacement-policy/</guid>
+      <description>详细解读DMIT最新IP更换政策，包含免费更换条件、收费标准、操作流程。Premium用户7天免费换IP，Standard用户也有保障方案，比搬瓦工更灵活友好。</description>
+    </item>
     <item>
       <title>DMIT与Vultr实测对比：VPS稳定性与网络表现【2025】</title>
       <link>https://dmitvps.github.io/posts/comparisons/dmit-vs-vultr/</link>
