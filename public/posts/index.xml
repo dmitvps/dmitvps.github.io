@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT vs HostDare深度对比：高品质还是低价格【2025】</title>
+      <link>https://dmitvps.github.io/posts/comparisons/dmit-vs-hostdare/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/comparisons/dmit-vs-hostdare/</guid>
+      <description>通过实际测试对比DMIT和HostDare两家VPS服务商，从性能、稳定性、价格、服务等多维度分析，帮你在高品质和低价格之间做出最佳选择。包含详细测试数据和购买建议。</description>
+    </item>
     <item>
       <title>DMIT IP更换政策详解，免费换IP全流程，不怕被墙</title>
       <link>https://dmitvps.github.io/posts/guides/dmit-ip-replacement-policy/</link>
