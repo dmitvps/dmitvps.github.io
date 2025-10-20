@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 推出三级硬件平台升级策略，洛杉矶节点率先部署 AMD EPYC 9005</title>
+      <link>https://dmitvps.github.io/posts/news/dmit-hardware-platform-upgrade-strategy-2025/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/dmit-hardware-platform-upgrade-strategy-2025/</guid>
+      <description>DMIT 发布硬件滚动更新计划，通过 Next、Stable、LTS 三级平台体系提供差异化服务。洛杉矶数据中心已部署最新 AMD EPYC 9005 处理器，香港东京节点计划 2026 年 Q2 升级，现有客户续费价格保持不变。</description>
+    </item>
     <item>
       <title>DMIT 香港和东京节点遭 DDoS 攻击：官方补偿及优惠详情</title>
       <link>https://dmitvps.github.io/posts/news/dmit-network-issue-compensation-oct-2025/</link>
