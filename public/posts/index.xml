@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 香港 Equinix HK1 机房 10 月底维护通知：升级路由设备</title>
+      <link>https://dmitvps.github.io/posts/news/equinix-hk1-scheduled-maintenance-oct-2025/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/equinix-hk1-scheduled-maintenance-oct-2025/</guid>
+      <description>DMIT 香港数据中心将于 2025 年 10 月 28 日起进行为期 4 天的定期维护，对 Equinix HK1 机房的路由基础设施进行 400G 设备升级。本次维护可能导致部分无保护服务的客户出现最长 30 秒的短暂中断，维护时间安排在本地非高峰时段进行以降低影响。</description>
+    </item>
     <item>
       <title>DMIT 推出三级硬件平台升级策略，洛杉矶节点率先部署 AMD EPYC 9005</title>
       <link>https://dmitvps.github.io/posts/news/dmit-hardware-platform-upgrade-strategy-2025/</link>
