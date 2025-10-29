@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dmitvps.github.io/posts/news/equinix-hk1-scheduled-maintenance-oct-2025/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+    <loc>https://dmitvps.github.io/posts/news/dmit-aup-policy-update-oct-2025/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dmitvps.github.io/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dmitvps.github.io/posts/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dmitvps.github.io/posts/news/equinix-hk1-scheduled-maintenance-oct-2025/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dmitvps.github.io/posts/news/dmit-hardware-platform-upgrade-strategy-2025/</loc>

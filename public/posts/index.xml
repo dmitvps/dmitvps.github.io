@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT AUP 政策更新解读：反欺诈条款和处罚机制变化详解</title>
+      <link>https://dmitvps.github.io/posts/news/dmit-aup-policy-update-oct-2025/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/dmit-aup-policy-update-oct-2025/</guid>
+      <description>DMIT 更新了可接受使用政策(AUP)，新增反欺诈条款并调整违规处罚机制。本文详细解读新政策对 VPS 用户的影响，包括安全环境改善、处罚措施变化及合规建议，帮助用户了解如何避免违规风险。</description>
+    </item>
     <item>
       <title>DMIT 香港 Equinix HK1 机房 10 月底维护通知：升级路由设备</title>
       <link>https://dmitvps.github.io/posts/news/equinix-hk1-scheduled-maintenance-oct-2025/</link>
