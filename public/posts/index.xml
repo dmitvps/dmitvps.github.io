@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 与 Hostwinds VPS 主机服务深度对比分析</title>
+      <link>https://dmitvps.github.io/posts/comparisons/dmit-vs-hostwinds/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/comparisons/dmit-vs-hostwinds/</guid>
+      <description>深入对比 DMIT 和 Hostwinds 两家 VPS 主机服务商在网络线路、价格配置、性能表现和技术支持等方面的差异，分析 CN2 GIA 优化线路与传统美国主机的优劣，帮助用户根据实际需求选择最适合的 VPS 解决方案。</description>
+    </item>
     <item>
       <title>DMIT 洛杉矶活动款补货：CN2 GIA 优化仅 39 美元每年 </title>
       <link>https://dmitvps.github.io/posts/news/dmit-lax-flash-sale-restock-nov-2025/</link>
