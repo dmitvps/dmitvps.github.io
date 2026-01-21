@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT VPS 推出自助更换 IP 功能，随时更换 IP</title>
+      <link>https://dmitvps.github.io/posts/news/dmit-self-service-ip-change-feature-2026/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/dmit-self-service-ip-change-feature-2026/</guid>
+      <description>DMIT 于 2026 年 1 月推出自助更换 IP 功能，Premium 和 EB 系列用户可直接在控制面板操作，无需提交工单等待。7 天免费换 IP 政策不变，操作更便捷高效。了解新功能使用方法及注意事项。</description>
+    </item>
     <item>
       <title>2025 年 DMIT 圣诞节活动通知，最高 20% 循环折扣</title>
       <link>https://dmitvps.github.io/posts/news/dmit-christmas-2025/</link>
@@ -79,11 +86,11 @@
       <description>通过实际测试对比DMIT和HostDare两家VPS服务商，从性能、稳定性、价格、服务等多维度分析，帮你在高品质和低价格之间做出最佳选择。包含详细测试数据和购买建议。</description>
     </item>
     <item>
-      <title>DMIT IP更换政策详解，免费换IP全流程，不怕被墙</title>
+      <title>DMIT IP 更换政策详解，DMIT 更换 IP 图文教程</title>
       <link>https://dmitvps.github.io/posts/guides/dmit-ip-replacement-policy/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://dmitvps.github.io/posts/guides/dmit-ip-replacement-policy/</guid>
-      <description>详细解读DMIT最新IP更换政策，包含免费更换条件、收费标准、操作流程。Premium用户7天免费换IP，Standard用户也有保障方案，比搬瓦工更灵活友好。</description>
+      <description>详细解读 DMIT 最新 IP 更换政策，包含免费更换条件、收费标准、操作流程。Premium 用户 7 天免费换 IP，Standard 用户也有保障方案，比搬瓦工更灵活友好。</description>
     </item>
     <item>
       <title>DMIT与Vultr实测对比：VPS稳定性与网络表现【2025】</title>
