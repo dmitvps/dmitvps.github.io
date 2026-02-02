@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dmitvps.github.io/posts/news/dmit-self-service-ip-change-feature-2026/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dmitvps.github.io/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dmitvps.github.io/alternatives/bandwagonhost/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dmitvps.github.io/alternatives/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dmitvps.github.io/posts/news/dmit-self-service-ip-change-feature-2026/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dmitvps.github.io/posts/</loc>
