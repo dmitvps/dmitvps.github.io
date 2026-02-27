@@ -6,8 +6,15 @@
     <description>Recent content in 选购参谋 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/alternatives/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RackNerd 缺点深度分析与最佳 VPS 替代推荐</title>
+      <link>https://dmitvps.github.io/alternatives/racknerd/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/alternatives/racknerd/</guid>
+      <description>RackNerd 真的值得买吗？本文从性能、网络线路、稳定性、售后等维度揭示 RackNerd 的真实短板，并对比推荐 DMIT、搬瓦工等更可靠的 VPS 商家，助你做出明智选择。</description>
+    </item>
     <item>
       <title>Vultr 优缺点客观分析，哪些人适合用，哪些人建议换</title>
       <link>https://dmitvps.github.io/alternatives/vultr/</link>
