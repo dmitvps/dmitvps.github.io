@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 价格调整：新旧套餐对比，是否还值得买？</title>
+      <link>https://dmitvps.github.io/posts/news/dmit-price-update/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/dmit-price-update/</guid>
+      <description>2026 年 DMIT 对旗下 VPS 套餐进行了一轮价格与规格调整。本文汇总最新配置信息，横向对比调整前后的核心参数与价格，结合 CN2 GIA、CMIN2、Tier 1 等线路特性，客观评估各方案的性价比变化。</description>
+    </item>
     <item>
       <title>DMIT VPS 推出自助更换 IP 功能，随时更换 IP</title>
       <link>https://dmitvps.github.io/posts/news/dmit-self-service-ip-change-feature-2026/</link>
