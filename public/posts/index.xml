@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>还在担心流量用完了怎么办？DMIT 流量重置功能来了</title>
+      <link>https://dmitvps.github.io/posts/news/reset-traffic/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/reset-traffic/</guid>
+      <description>DMIT 官方最新上线 VPS 流量重置功能，支持按需重置 40%~100%！老用户更可领取一次 100% 的免费重置补偿机会。本文详细解读 DMIT 流量重置规则与免费权益领取教程，助您彻底告别流量焦虑。</description>
+    </item>
     <item>
       <title>DMIT 价格调整：新旧套餐对比，是否还值得买？</title>
       <link>https://dmitvps.github.io/posts/news/dmit-price-update/</link>
