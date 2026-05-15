@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 突发紧急通知，因资源极度紧缺暂时暂停所有产品销售</title>
+      <link>https://dmitvps.github.io/posts/news/dmit-suspends-all-sales-may-2026/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/dmit-suspends-all-sales-may-2026/</guid>
+      <description>针对 DMIT 因资源紧缺突发暂停销售的官方公告，本文带来深度解读。除盘点洛杉矶、香港、东京机房的硬件及 IP 补货最新进展外，重点提示新 IP 绕过预热期直接上线可能带来的网络波动风险。</description>
+    </item>
     <item>
       <title>还在担心流量用完了怎么办？DMIT 流量重置功能来了</title>
       <link>https://dmitvps.github.io/posts/news/reset-traffic/</link>
