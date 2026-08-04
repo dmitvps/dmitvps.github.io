@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 旧版 154 开头 IP 收费调整通知及免费更换指南</title>
+      <link>https://dmitvps.github.io/posts/news/dmit-ip-policy-update-2026/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/dmit-ip-policy-update-2026/</guid>
+      <description>DMIT 宣布全面转向自购并独立管理 IP 地址。自 2026 年 12 月 1 日起，仍需保留旧版 Cogent IP（154 开头）的用户将面临每月 $1 的附加费。本文为您详细解读该政策，并提供免费更换全新 IP 的操作指南以避免额外收费。</description>
+    </item>
     <item>
       <title>DMIT VPS退款政策详解：退款条件、流程和注意事项</title>
       <link>https://dmitvps.github.io/posts/guides/dmit-refund-policy/</link>
