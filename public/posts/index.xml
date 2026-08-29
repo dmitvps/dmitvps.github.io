@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 8·26 网络安全公告深度解读：SNI 代理缺陷、近百G流量盗刷与安全加固自查</title>
+      <link>https://dmitvps.github.io/posts/news/dmit-network-security-bulletin-aug-2026/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/dmit-network-security-bulletin-aug-2026/</guid>
+      <description>DMIT 官方发布 8·26 网络安全公告，披露黑客利用部分用户 VPS 上的开放 SNI 代理作为跳板，向 OpenAI / Cloudflare 发起近 100 Gbps 组织化滥用请求。本文深度解读事件经过、官方检测与处置标准（关机/追责），并提供详细的 VPS 端口自查与防火墙加固教程，帮助大家保护实例与流量安全。</description>
+    </item>
     <item>
       <title>DMIT 洛杉矶 AS3 系列补货：Pro / EB / T1 全部上架可下单</title>
       <link>https://dmitvps.github.io/posts/news/dmit-lax-as3-restock-aug-2026/</link>
