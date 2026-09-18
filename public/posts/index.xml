@@ -6,7 +6,7 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DMIT 8·26 网络安全公告深度解读：SNI 代理缺陷、近百G流量盗刷与安全加固自查</title>
@@ -121,18 +121,18 @@
       <description>DMIT 推出创新的双重保障自动续费机制，结合账户余额和信用卡扣款，为用户提供无缝的服务续费体验，确保服务连续性和稳定性。</description>
     </item>
     <item>
-      <title>DMIT 和搬瓦工详细对比：哪个更适合你【2025】</title>
+      <title>DMIT 和搬瓦工详细对比：哪个更适合你【2026 最新测评】</title>
       <link>https://dmitvps.github.io/posts/comparisons/dmit-vs-bandwagonhost/</link>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://dmitvps.github.io/posts/comparisons/dmit-vs-bandwagonhost/</guid>
-      <description>深度对比DMIT和搬瓦工VPS的性能、价格、网络质量、客服支持等关键指标。基于实际测试数据，为你详细分析DMIT和搬瓦工哪个更适合中国用户，帮你做出最优选择。</description>
+      <description>2026最新深度对比DMIT和搬瓦工VPS的性能、价格、网络质量（CN2 GIA/CMIN2）、退款与换IP等关键指标。结合两家最新在售套餐与实测数据，为你客观分析哪家更适合中国大陆用户。</description>
     </item>
     <item>
-      <title>DMIT vs HostDare深度对比：高品质还是低价格【2025】</title>
+      <title>DMIT vs HostDare深度对比：高品质还是低价格【2026最新测评】</title>
       <link>https://dmitvps.github.io/posts/comparisons/dmit-vs-hostdare/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://dmitvps.github.io/posts/comparisons/dmit-vs-hostdare/</guid>
-      <description>通过实际测试对比DMIT和HostDare两家VPS服务商，从性能、稳定性、价格、服务等多维度分析，帮你在高品质和低价格之间做出最佳选择。包含详细测试数据和购买建议。</description>
+      <description>2026最新实测对比DMIT和HostDare两家VPS服务商，从网络路由（全程CN2 GIA/CMIN2优化 vs 仅回程优化/限速带宽）、硬件算力、稳定性到真实价格全方位分析，帮你在高品质与低预算之间做出理智选择。</description>
     </item>
     <item>
       <title>DMIT IP 更换政策详解，DMIT 更换 IP 图文教程</title>
@@ -142,11 +142,11 @@
       <description>详细解读 DMIT 最新 IP 更换政策，包含免费更换条件、收费标准、操作流程。Premium 用户 7 天免费换 IP，Standard 用户也有保障方案，比搬瓦工更灵活友好。</description>
     </item>
     <item>
-      <title>DMIT与Vultr实测对比：VPS稳定性与网络表现【2025】</title>
+      <title>DMIT与Vultr实测对比：VPS稳定性与网络表现【2026最新】</title>
       <link>https://dmitvps.github.io/posts/comparisons/dmit-vs-vultr/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://dmitvps.github.io/posts/comparisons/dmit-vs-vultr/</guid>
-      <description>详细对比DMIT和Vultr两家主流VPS服务商的性能、价格、网络质量和技术支持，帮助您选择最适合的云服务器方案。基于实际测试数据分析两家优劣势。</description>
+      <description>2026最新对比DMIT和Vultr两家主流VPS服务商的性能、价格、网络质量（三网CN2 GIA优化 vs 纯国际BGP）和技术支持。结合最新实测数据，帮你在精品优化线路与规模化云服务之间做出最优选择。</description>
     </item>
     <item>
       <title>DMIT 洛杉矶 Premium 入门套餐深度测评【2025】</title>
@@ -156,11 +156,11 @@
       <description>深度测评 DMIT 洛杉矶 Premium 入门套餐的网络性能、硬件配置和使用体验，包含详细的速度测试、稳定性分析和性价比评估，帮助你了解这款 VPS 是否值得购买。</description>
     </item>
     <item>
-      <title>DMIT 洛杉矶 Premium 网络深度实测【2025年8月】</title>
+      <title>DMIT 洛杉矶 Premium 网络深度实测（含最新线路与延迟实测）</title>
       <link>https://dmitvps.github.io/posts/reviews/dmit-los-angeles-premium-network/</link>
       <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://dmitvps.github.io/posts/reviews/dmit-los-angeles-premium-network/</guid>
-      <description>详细测试DMIT洛杉矶Premium机房的网络表现，包括三网去程回程路由分析、ping延迟测试、V2ray节点实际速度以及YouTube 4K播放体验，为选择DMIT服务器提供真实参考数据。</description>
+      <description>2026最新深度实测DMIT洛杉矶Premium机房网络表现，包括三网（电信CN2 GIA、联通9929、移动CMIN2）去程回程路由分析、晚高峰丢包与ping延迟测试、4K播放实测，为选择DMIT服务器提供一手真实参考数据。</description>
     </item>
   </channel>
 </rss>
