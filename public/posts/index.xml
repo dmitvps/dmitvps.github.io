@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 香港 Eyeball 系列重新上线，附全国延迟与硬件实测</title>
+      <link>https://dmitvps.github.io/posts/news/dmit-hkg-eyeball-restock-and-an5-launch-2026/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/news/dmit-hkg-eyeball-restock-and-an5-launch-2026/</guid>
+      <description>DMIT 香港机房 Eyeball（HKG EB）优化产品线正式重新上线！本次回归不仅带来 AS3 平台的全新规格重构，更首次引入 AMD EPYC 9005（AN5）新一代旗舰算力平台。本文汇总最新配置与价格表，结合 bench.sh 硬件跑分与全国 Ping 延迟实测，深度剖析 CMI 优化线路表现、官方 Beta 测试风险、测试 IP 及选购建议。</description>
+    </item>
     <item>
       <title>DMIT 8·26 网络安全公告深度解读：SNI 代理缺陷、近百G流量盗刷与安全加固自查</title>
       <link>https://dmitvps.github.io/posts/news/dmit-network-security-bulletin-aug-2026/</link>
