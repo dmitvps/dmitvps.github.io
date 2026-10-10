@@ -6,8 +6,15 @@
     <description>Recent content in 文章列表 on DMIT中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmitvps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMIT 库存监控（补货规律、抢购技巧）与现货购买指南</title>
+      <link>https://dmitvps.github.io/posts/guides/dmit-stock-and-restock-guide/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://dmitvps.github.io/posts/guides/dmit-stock-and-restock-guide/</guid>
+      <description>DMIT经常缺货买不到？本文实时汇总2026年DMIT洛杉矶、香港、东京三大机房在售现货与缺货状态，深度解析官方补货规律、释放订单捡漏时间点，分享余额预充防风控秒杀技巧，并提供缺货时的最优平替选型方案。</description>
+    </item>
     <item>
       <title>DMIT 香港 Eyeball 系列重新上线，附全国延迟与硬件实测</title>
       <link>https://dmitvps.github.io/posts/news/dmit-hkg-eyeball-restock-and-an5-launch-2026/</link>
